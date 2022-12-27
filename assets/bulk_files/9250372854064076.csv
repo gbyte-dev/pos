@@ -1,0 +1,2 @@
+title,coupon_code,coupon_type,limit_coupon,start_date,expire_date,min_purchase,max_discount,discount,discount_type
+Test,TEST100,2,10,16/11/22,16/12/22,1000,100,1000,2
